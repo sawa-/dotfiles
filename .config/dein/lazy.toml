@@ -1,0 +1,10 @@
+[[plugins]] # EditorConfig
+repo = 'editorconfig/editorconfig-vim'
+on_path = '.*'
+
+[[plugins]]
+repo = 'mattn/emmet-vim'
+
+[[plugins]]
+repo = 'kana/vim-smartinput'
+on_i = 1
