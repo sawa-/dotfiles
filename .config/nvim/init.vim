@@ -54,3 +54,4 @@ set noswapfile
 filetype plugin indent on
 syntax enable
 
+set clipboard=unnamed
