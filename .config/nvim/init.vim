@@ -55,3 +55,5 @@ filetype plugin indent on
 syntax enable
 
 set clipboard=unnamed
+set ignorecase
+set smartcase
