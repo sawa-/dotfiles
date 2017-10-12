@@ -57,3 +57,5 @@ syntax enable
 set clipboard=unnamed
 set ignorecase
 set smartcase
+
+nnoremap <Esc><Esc> :<C-u>set nohlsearch<Return>
