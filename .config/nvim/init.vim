@@ -58,8 +58,6 @@ set clipboard=unnamed
 set ignorecase
 set smartcase
 
-nnoremap <Esc><Esc> :<C-u>set nohlsearch<Return>
-
 if has('mac')
   set ttimeoutlen=1
   let g:imeoff = 'osascript -e "tell application \"System Events\" to key code 102"'
